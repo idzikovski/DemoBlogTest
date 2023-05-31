@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Setting up my blog"
-date: 2023-06-00 00:00:00 -0000
-categories: CATEGORY-1 CATEGORY-2
+title: "Setting up blog"
+date: 2023-05-03 10:00:17 +0100
+categories: category1 category 2
 ---
 
 # Setting up blog in 10 minima
